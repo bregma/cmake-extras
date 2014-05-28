@@ -36,8 +36,8 @@
 #   CoR-Lab, Research Institute for Cognition and Robotics
 #     Bielefeld University
 
-FIND_PACKAGE(lcov)
-FIND_PACKAGE(gcovr)
+FIND_PACKAGE(Lcov)
+FIND_PACKAGE(Gcovr)
 
 FUNCTION(ENABLE_COVERAGE_REPORT)
 
