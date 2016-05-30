@@ -1,3 +1,10 @@
+cmake-extras (0.7+16.04.20160530-0ubuntu1) xenial; urgency=medium
+
+  [ CI Train Bot ]
+  * No-change rebuild.
+
+ -- Charles Kerr <charles.kerr@canonical.com>  Mon, 30 May 2016 14:52:54 +0000
+
 cmake-extras (0.7+16.04.20160513-0ubuntu1) xenial; urgency=medium
 
   [ Pete ]
